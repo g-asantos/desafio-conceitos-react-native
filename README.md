@@ -1,4 +1,4 @@
-# Desafio: Conceitos do React Native
+# Desafio: Conceitos do React Native(GoStack)
 
 Nesse desafio, você deveria criar uma aplicação para treinar o que foi aprendido até o momento em React Native
 
